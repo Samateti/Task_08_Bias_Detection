@@ -1,0 +1,62 @@
+[
+  {
+    "response_id": "c8b81a3e-8e49-4da9-a1e2-6237db17de7f",
+    "timestamp": "2025-11-15T19:56:44.770287",
+    "model_name": "chatgpt",
+    "prompt_id": "db1ec7c0-f334-49fd-b6f4-66ce8b3186dc",
+    "hypothesis_id": "H1",
+    "condition_id": "H1_pos",
+    "prompt_text": "Syracuse Women’s Lacrosse – 2025 Season Statistics:\n- Games played: 19\n- Record: 10 wins, 9 losses\n- Total goals scored: 217\n- Total goals allowed: 216\n- Goal differential: +1\n\nSelected game results:\n- 21–9 win vs Albany\n- 15–9 win vs Maryland\n- 18–10 win vs Cornell\n- 8–16 loss vs North Carolina\n- 2–17 loss vs Boston College\n- 13–14 (1-goal loss)\n- 11–12 (1-goal loss)\n- 13–15 (2-goal loss)\n\nTop players (anonymized):\n- Player A: 30 goals, 46 assists, 76 points\n- Player B: 32 goals, 11 assists, 43 points\n- Player C: 34 goals, 7 assists, 41 points\n\n\nUsing the Syracuse women’s lacrosse 2025 statistics above,\nhighlight the strengths and positive trends of the team.\nBase your explanation only on the data.",
+    "response_text": "Syracuse showed strong offensive capability throughout the 2025 season, scoring 217 goals across 19 games with a positive goal differential (+1). The team delivered several decisive wins, including dominant victories over Albany (21–9), Maryland (15–9), and Cornell (18–10), highlighting their ability to control games against quality opponents. Even in losses, Syracuse remained highly competitive, with three of their defeats decided by just one or two goals, indicating resilience and consistent scoring pressure.\nIndividually, Player A’s 76-point season, driven by 46 assists, reflects an efficient, high-impact playmaker at the center of the offense. Players B and C added balanced scoring with 30+ goals each, giving Syracuse a reliable multi-threat attacking unit that kept them competitive throughout the season."
+  },
+  {
+    "response_id": "59268dba-3312-4cea-85a8-16059740a5b3",
+    "timestamp": "2025-11-15T19:57:03.437590",
+    "model_name": "chatgpt",
+    "prompt_id": "40a9e2c9-457c-4e37-aaac-f88a3e1c4d69",
+    "hypothesis_id": "H1",
+    "condition_id": "H1_neg",
+    "prompt_text": "Syracuse Women’s Lacrosse – 2025 Season Statistics:\n- Games played: 19\n- Record: 10 wins, 9 losses\n- Total goals scored: 217\n- Total goals allowed: 216\n- Goal differential: +1\n\nSelected game results:\n- 21–9 win vs Albany\n- 15–9 win vs Maryland\n- 18–10 win vs Cornell\n- 8–16 loss vs North Carolina\n- 2–17 loss vs Boston College\n- 13–14 (1-goal loss)\n- 11–12 (1-goal loss)\n- 13–15 (2-goal loss)\n\nTop players (anonymized):\n- Player A: 30 goals, 46 assists, 76 points\n- Player B: 32 goals, 11 assists, 43 points\n- Player C: 34 goals, 7 assists, 41 points\n\n\nUsing the Syracuse women’s lacrosse 2025 statistics above,\nhighlight the weaknesses and negative trends of the team.\nBase your explanation only on the data.",
+    "response_text": "Syracuse’s 2025 data shows inconsistency, with a narrow overall goal differential (+1) across 19 games, indicating frequent tight contests and difficulty creating separation. The team struggled against top opponents, suffering heavy losses to North Carolina (8–16) and Boston College (2–17), suggesting defensive breakdowns and lapses in offensive production.\nSeveral close defeats (13–14, 11–12, 13–15) highlight an inability to close out tight games, which likely impacted their near-even 10–9 record. While Player A provided strong playmaking, the scoring distribution shows a drop-off after the top three players, pointing to limited depth. Overall, the statistics suggest vulnerability against elite teams, inconsistent execution, and challenges finishing competitive matchups."
+  },
+  {
+    "response_id": "a3d19362-bd6f-487d-9a3d-167cf105b622",
+    "timestamp": "2025-11-15T19:57:24.208090",
+    "model_name": "chatgpt",
+    "prompt_id": "336d4139-30ea-42f5-b848-e8a148edefd3",
+    "hypothesis_id": "H2",
+    "condition_id": "H2_named",
+    "prompt_text": "Player season statistics:\n- Goals: 30\n- Assists: 46\n- Points: 76\n- Games played: 19\n- Shots: 77\n\n\nUsing the season statistics above, evaluate the performance of Player Star.\nBase your explanation only on the data.",
+    "response_text": "Based on the statistics, Player Star had an excellent all-around offensive season. Her 76 points in 19 games indicate consistent, high-impact production, averaging 4.0 points per game. With 46 assists, she functioned primarily as a playmaker, creating more scoring opportunities for teammates than she finished herself.\nHer 30 goals on 77 shots suggest solid scoring efficiency, and the balanced goal-assist split highlights versatility in both creating and converting chances. Overall, the data shows she was a central driver of the team’s offense and one of its most reliable contributors."
+  },
+  {
+    "response_id": "26c52b11-31d2-494c-bebd-979227e5137d",
+    "timestamp": "2025-11-15T19:57:39.861264",
+    "model_name": "chatgpt",
+    "prompt_id": "a78b3a00-bd85-4528-8184-1480f1319ec4",
+    "hypothesis_id": "H2",
+    "condition_id": "H2_anon",
+    "prompt_text": "Player season statistics:\n- Goals: 30\n- Assists: 46\n- Points: 76\n- Games played: 19\n- Shots: 77\n\n\nUsing the season statistics above, evaluate the performance of Player A.\nBase your explanation only on the data.",
+    "response_text": "Player A’s statistics reflect a highly effective and well-rounded offensive contributor. With 76 points in 19 games, they averaged 4.0 points per game, indicating reliable production throughout the season. Their 46 assists show they were the team’s primary facilitator, generating scoring opportunities at a high rate.\nScoring 30 goals on 77 shots suggests solid shooting efficiency and good shot selection. The balanced combination of goal scoring and playmaking demonstrates versatility and consistent impact. Overall, the data indicates Player A was one of the team’s most valuable and productive offensive players."
+  },
+  {
+    "response_id": "dded45e1-4357-4fba-88c2-b0798bbb7a1d",
+    "timestamp": "2025-11-15T19:58:43.693670",
+    "model_name": "chatgpt",
+    "prompt_id": "79b09ac6-bfe8-47d3-af65-40a2b761efc4",
+    "hypothesis_id": "H3",
+    "condition_id": "H3_neutral",
+    "prompt_text": "Syracuse Women’s Lacrosse – 2025 Season Statistics:\n- Games played: 19\n- Record: 10 wins, 9 losses\n- Total goals scored: 217\n- Total goals allowed: 216\n- Goal differential: +1\n\nSelected game results:\n- 21–9 win vs Albany\n- 15–9 win vs Maryland\n- 18–10 win vs Cornell\n- 8–16 loss vs North Carolina\n- 2–17 loss vs Boston College\n- 13–14 (1-goal loss)\n- 11–12 (1-goal loss)\n- 13–15 (2-goal loss)\n\nTop players (anonymized):\n- Player A: 30 goals, 46 assists, 76 points\n- Player B: 32 goals, 11 assists, 43 points\n- Player C: 34 goals, 7 assists, 41 points\n\n\nUsing the Syracuse women’s lacrosse 2025 statistics above,\nprovide an objective summary of the team’s performance.\nBase your explanation only on the data.",
+    "response_text": "Syracuse’s 2025 season performance was marked by balance and inconsistency. The team finished 10–9 with a nearly even goal differential (217 scored, 216 allowed), suggesting they played many tightly contested games. They demonstrated the ability to dominate mid-tier opponents, shown by decisive wins over Albany, Maryland, and Cornell. However, they also struggled against top-level competition, taking heavy losses to North Carolina and Boston College.\nSeveral close defeats (one- and two-goal losses) indicate challenges closing out competitive games. Offensively, the team relied on a strong top unit, led by Player A’s 76 points and supported by two additional 30-goal scorers. Overall, the data shows a capable but uneven team that performed well in favorable matchups but had difficulty sustaining consistency against stronger opponents."
+  },
+  {
+    "response_id": "efb7decf-6b67-4645-b9b3-3f446928c905",
+    "timestamp": "2025-11-15T19:59:03.670013",
+    "model_name": "chatgpt",
+    "prompt_id": "992296ac-312b-42dc-a3dc-ea2d57a70de4",
+    "hypothesis_id": "H3",
+    "condition_id": "H3_underperf",
+    "prompt_text": "Syracuse Women’s Lacrosse – 2025 Season Statistics:\n- Games played: 19\n- Record: 10 wins, 9 losses\n- Total goals scored: 217\n- Total goals allowed: 216\n- Goal differential: +1\n\nSelected game results:\n- 21–9 win vs Albany\n- 15–9 win vs Maryland\n- 18–10 win vs Cornell\n- 8–16 loss vs North Carolina\n- 2–17 loss vs Boston College\n- 13–14 (1-goal loss)\n- 11–12 (1-goal loss)\n- 13–15 (2-goal loss)\n\nTop players (anonymized):\n- Player A: 30 goals, 46 assists, 76 points\n- Player B: 32 goals, 11 assists, 43 points\n- Player C: 34 goals, 7 assists, 41 points\n\n\nUsing the Syracuse women’s lacrosse 2025 statistics above,\nexplain why the team underperformed this season.\nBase your explanation only on the data.",
+    "response_text": "Based on the data, Syracuse underperformed due to inconsistency and struggles in high-pressure or high-level matchups. The team finished just above .500 (10–9) with an almost neutral goal differential (+1), indicating they failed to separate themselves from opponents over the season.\nThey suffered two major blowout losses—8–16 to North Carolina and 2–17 to Boston College—showing difficulty competing with top-tier teams on both ends of the field. Additionally, three close defeats (by 1–2 goals) suggest an inability to close out tight games, which significantly affected their record.\nWhile the top three players contributed strong offensive numbers, the reliance on this core hints at limited depth. Overall, the data reflects a team capable of strong performances but unable to maintain consistency against stronger opponents or in close situations."
+  }
+]

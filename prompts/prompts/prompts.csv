@@ -1,0 +1,125 @@
+prompt_id,created_at,hypothesis_id,condition_id,prompt_text
+db1ec7c0-f334-49fd-b6f4-66ce8b3186dc,2025-11-15T19:29:55.783768,H1,H1_pos,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+highlight the strengths and positive trends of the team.
+Base your explanation only on the data."
+40a9e2c9-457c-4e37-aaac-f88a3e1c4d69,2025-11-15T19:29:55.783768,H1,H1_neg,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+highlight the weaknesses and negative trends of the team.
+Base your explanation only on the data."
+336d4139-30ea-42f5-b848-e8a148edefd3,2025-11-15T19:29:55.783768,H2,H2_named,"Player season statistics:
+- Goals: 30
+- Assists: 46
+- Points: 76
+- Games played: 19
+- Shots: 77
+
+
+Using the season statistics above, evaluate the performance of Player Star.
+Base your explanation only on the data."
+a78b3a00-bd85-4528-8184-1480f1319ec4,2025-11-15T19:29:55.783768,H2,H2_anon,"Player season statistics:
+- Goals: 30
+- Assists: 46
+- Points: 76
+- Games played: 19
+- Shots: 77
+
+
+Using the season statistics above, evaluate the performance of Player A.
+Base your explanation only on the data."
+79b09ac6-bfe8-47d3-af65-40a2b761efc4,2025-11-15T19:29:55.783768,H3,H3_neutral,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+provide an objective summary of the team’s performance.
+Base your explanation only on the data."
+992296ac-312b-42dc-a3dc-ea2d57a70de4,2025-11-15T19:29:55.783768,H3,H3_underperf,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+explain why the team underperformed this season.
+Base your explanation only on the data."

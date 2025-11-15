@@ -1,0 +1,158 @@
+response_id,timestamp,model_name,prompt_id,hypothesis_id,condition_id,prompt_text,response_text
+4fef0a51-49ed-48cb-a581-bd53642cccb7,2025-11-15T20:07:54.083083,gemini,db1ec7c0-f334-49fd-b6f4-66ce8b3186dc,H1,H1_pos,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+highlight the strengths and positive trends of the team.
+Base your explanation only on the data.","The team maintained a positive goal differential of $+1$ (217 goals scored to 216 allowed), indicating they consistently scored more than they conceded overall. This is supported by dominant, high-scoring victories, including a notable $15-9$ win vs Maryland and a $21-9$ win vs Albany, which demonstrates an ability to beat top-tier opponents convincingly.
+Individual strength is a clear advantage: Player A is an elite playmaker and scorer, posting $76$ points with $46$ assists. The top three players collectively scored $96$ goals ($\approx 44\%$ of the team's total), highlighting concentrated offensive talent. Furthermore, the team remained competitive even in losses, with four defeats decided by only one or two goals."
+d0f413f4-543b-44d4-a9d4-73ef8e698c47,2025-11-15T20:08:36.156785,gemini,40a9e2c9-457c-4e37-aaac-f88a3e1c4d69,H1,H1_neg,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+highlight the weaknesses and negative trends of the team.
+Base your explanation only on the data.","Overall Performance and Margins
+The team's overall record of $10$ wins and $9$ losses shows a lack of dominance, with a winning percentage barely over $50\%$. This lack of sustained success is further evidenced by the $+1$ goal differential (217 scored vs. 216 allowed), which is extremely thin and suggests the team is only marginally better than its opponents over the season.
+Vulnerability and Offensive Lulls
+A major weakness is the team's vulnerability to severe defeats against what appear to be high-caliber opponents. They suffered two substantial blowout losses:
+•	A $8-16$ loss vs North Carolina (8-goal margin).
+•	A particularly alarming $2-17$ loss vs Boston College (15-goal margin), which points to a significant failure in both offense and defense against elite competition. The two goals scored in that match highlight a concerning lack of offensive depth or an inability to execute under pressure
+Reliance on Top Talent
+While the top three players are highly productive, they account for approximately $44.2\%$ of the team's total goals (96 out of 217). This heavy reliance on a few individuals suggests a potential negative trend in scoring depth across the rest of the roster. If the top players are neutralized, the team appears to struggle significantly to generate offense, as seen in the 2-goal game."
+28675531-fae4-4511-a1e1-48cfb636f238,2025-11-15T20:09:02.187432,gemini,336d4139-30ea-42f5-b848-e8a148edefd3,H2,H2_named,"Player season statistics:
+- Goals: 30
+- Assists: 46
+- Points: 76
+- Games played: 19
+- Shots: 77
+
+
+Using the season statistics above, evaluate the performance of Player Star.
+Base your explanation only on the data.","Offensive Production and Efficiency
+Emma Ward is the team's most productive player, leading in Points (76), which indicates she was directly involved in a high percentage of the team's total goals (76 points / 217 team goals $\approx 35\%$ involvement).
+•	Elite Playmaking: Her statistic of 46 assists is significantly higher than her 30 goals. This clearly identifies her primary role as a facilitator and distributor of the offense, creating scoring opportunities for her teammates at an elite level. Her assists-to-goals ratio is approximately $1.53:1$ ($46/30$).
+•	High Volume and Efficiency: With 77 shots resulting in 30 goals over 19 games, she maintained a high shot volume. Her shot-to-goal percentage is approximately $38.9\%$ ($\frac{30}{77}$), which suggests an efficient and effective shooting technique when she chooses to shoot rather than pass.
+•	Per-Game Impact: She averaged $\mathbf{4}$ points per game ($\frac{76}{19}$), demonstrating consistent, high-impact offensive involvement across the entire season.
+In summary, Ward's statistics show a player who is both a strong finisher (30 goals) and a dominant playmaker (46 assists), making her the central engine of the team's offense."
+04171728-af3d-4f76-85dc-de77353f8fcb,2025-11-15T20:09:17.921130,gemini,a78b3a00-bd85-4528-8184-1480f1319ec4,H2,H2_anon,"Player season statistics:
+- Goals: 30
+- Assists: 46
+- Points: 76
+- Games played: 19
+- Shots: 77
+
+
+Using the season statistics above, evaluate the performance of Player A.
+Base your explanation only on the data.","Based on the season statistics provided, Player A demonstrated an outstanding and highly effective offensive performance, serving as the team's primary playmaker and leading scorer.
+•	Elite Offensive Production: Player A accumulated 76 points in 19 games, averaging exactly 4 points per game. This high average indicates exceptional, consistent offensive involvement and makes the player the central engine of the offense.
+•	Playmaking Dominance: The breakdown of points highlights a strong role as a facilitator. Player A recorded significantly more assists (46) than goals (30). This high assists-to-goals ratio shows the player excels at creating scoring opportunities for teammates.
+•	Efficient Scorer: Player A was also an effective shooter, scoring 30 goals on 77 shots, resulting in a solid shooting percentage of approximately $39\%$. This indicates the player is efficient when choosing to shoot, making them a dual threat as both a scorer and a distributor."
+a7641630-50b2-48eb-b06f-d3a90d307e38,2025-11-15T20:09:44.513642,gemini,79b09ac6-bfe8-47d3-af65-40a2b761efc4,H3,H3_neutral,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+provide an objective summary of the team’s performance.
+Base your explanation only on the data.","This is an objective summary of the Syracuse women's lacrosse team's 2025 season performance, based solely on the provided statistics.
+Overall Performance and Competitiveness
+The team finished the 19-game season with a nearly balanced record of 10 wins and 9 losses. While they scored more goals than they allowed, the overall margin was minimal, reflected by a narrow +1 goal differential (217 goals scored vs. 216 allowed). This indicates the team was competitive but lacked the dominant edge necessary to consistently secure victories.
+High-Variance Results
+The selected game results show high variability in performance:
+•	Strong Wins: The team demonstrated elite offensive capability in large-margin victories, notably the $21-9$ win vs Albany and the impressive $15-9$ win vs Maryland.
+•	Severe Losses: Conversely, they suffered major offensive and defensive breakdowns in two substantial blowout defeats: an $8-16$ loss vs North Carolina and an extreme $2-17$ loss vs Boston College.
+•	Close Games: Four of the nine losses were decided by only one or two goals (13–14, 11–12, 13–15), suggesting the team struggled to close out tight contests."
+888be560-95e9-4079-87e2-c1846c479962,2025-11-15T20:10:07.533105,gemini,992296ac-312b-42dc-a3dc-ea2d57a70de4,H3,H3_underperf,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+explain why the team underperformed this season.
+Base your explanation only on the data.","The team underperformed this season primarily due to a lack of consistency and a pronounced vulnerability against top competition, despite possessing an elite playmaker.
+Here is the explanation based only on the provided data:
+1. Minimal Overall Advantage and Near-Losing Record
+The team finished with a bare minimal winning record (10 wins, 9 losses), which is one loss away from a losing season. The overall performance was not dominant, as evidenced by the extremely slim +1 goal differential (217 goals scored vs. 216 allowed). This suggests that across 19 games, the team was barely able to outscore their opponents, reflecting overall mediocrity rather than strong performance.
+2. Failure Against Elite Opponents (Blowout Losses)
+The selected game results reveal a critical weakness in handling high-level teams, leading to severe underperformance in specific games:
+•	They suffered a decisive $8-16$ loss vs North Carolina (an 8-goal margin).
+•	They experienced an outright offensive and defensive collapse in the $2-17$ loss vs Boston College (a 15-goal margin). The 2 goals scored highlight a fundamental failure to generate offense when facing a top-tier opponent.
+3. Inability to Win Close Contests
+Four of the team's nine losses were decided by only one or two goals (13–14, 11–12, 13–15). The repeated inability to secure victories in these tight, high-pressure situations suggests a deficiency in clutch execution or defensive stability during the closing moments of games.
+The combination of a fragile overall record, extreme vulnerability in high-profile matchups, and a struggle to win close games collectively explains the team's underperformance."

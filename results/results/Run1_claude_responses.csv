@@ -1,0 +1,137 @@
+response_id,timestamp,model_name,prompt_id,hypothesis_id,condition_id,prompt_text,response_text
+fe3ffe9c-569a-4786-9431-25de33a76fc7,2025-11-15T20:00:11.563242,claude,db1ec7c0-f334-49fd-b6f4-66ce8b3186dc,H1,H1_pos,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+highlight the strengths and positive trends of the team.
+Base your explanation only on the data.","Syracuse demonstrated strong offensive firepower, averaging 11.4 goals per game across 217 total goals. The team achieved dominant victories against quality opponents—defeating Albany (21-9), Maryland (15-9), and Cornell (18-10) by comfortable margins, showcasing their ceiling when executing effectively.
+The offense featured elite individual talent with three players combining for 160 points. Player A excelled as a facilitator with 46 assists, while Players B and C provided consistent scoring threats (32 and 34 goals respectively). This trio's production—96 combined goals—drove offensive success.
+Despite challenges, Syracuse maintained competitiveness throughout the season, posting a winning 10-9 record. Four losses came by two goals or fewer, demonstrating resilience in tight contests. The minimal goal differential (+1) reflects balanced scoring and defensive output. When performing optimally, Syracuse proved capable of explosive offensive performances and decisive victories against established programs."
+b98d3459-d2e8-4af4-aeec-8891238aad23,2025-11-15T20:00:25.699766,claude,40a9e2c9-457c-4e37-aaac-f88a3e1c4d69,H1,H1_neg,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+highlight the weaknesses and negative trends of the team.
+Base your explanation only on the data.","Syracuse's weaknesses center on defensive fragility and offensive depth. The team allowed 216 goals—nearly equal to their 217 scored—revealing inadequate defensive performance. Two catastrophic losses (2-17 vs Boston College, 8-16 vs North Carolina) exposed severe defensive breakdowns, conceding 33 goals in just two games.
+Close-game execution was poor: four losses by two goals or fewer (13-14, 11-12, 13-15) indicate inability to execute under pressure or maintain leads.
+Offensive production was dangerously concentrated. Three players accounted for 96 goals (44% of team total) and 160 points. Players B and C combined for just 18 assists despite 66 goals, suggesting limited playmaking beyond Player A and minimal secondary scoring threats."
+28fe6c92-9f4a-456f-b6f0-d6659129cc7f,2025-11-15T20:00:49.207196,claude,336d4139-30ea-42f5-b848-e8a148edefd3,H2,H2_named,"Player season statistics:
+- Goals: 30
+- Assists: 46
+- Points: 76
+- Games played: 19
+- Shots: 77
+
+
+Using the season statistics above, evaluate the performance of Player Star.
+Base your explanation only on the data.","Player star posted 76 points across 19 games (4.0 points per game), demonstrating elite playmaking ability with 46 assists—significantly outpacing her 30 goals. This 1.53 assist-to-goal ratio indicates a pass-first mentality and exceptional court vision.
+Her shooting efficiency was remarkably high: 30 goals on 77 shots equals a 39% conversion rate, suggesting selective shot selection and quality scoring opportunities. The low shot volume (4.1 per game) relative to high assist total confirms her role as a distributor rather than primary scorer.
+Ward's 76 points represented strong individual production, with assists comprising 61% of her point total. This distribution pattern—nearly twice as many assists as goals—marks her as a primary facilitator, creating scoring chances for teammates while maintaining personal scoring efficiency when shooting."
+dd736c07-b40d-4dfd-b2fa-72d91ed2d053,2025-11-15T20:01:03.432650,claude,a78b3a00-bd85-4528-8184-1480f1319ec4,H2,H2_anon,"Player season statistics:
+- Goals: 30
+- Assists: 46
+- Points: 76
+- Games played: 19
+- Shots: 77
+
+
+Using the season statistics above, evaluate the performance of Player A.
+Base your explanation only on the data.","Player A posted 76 points across 19 games (4.0 points per game), demonstrating elite playmaking ability with 46 assists—significantly outpacing their 30 goals. This 1.53 assist-to-goal ratio indicates a pass-first mentality and exceptional court vision.
+Their shooting efficiency was remarkably high: 30 goals on 77 shots equals a 39% conversion rate, suggesting selective shot selection and quality scoring opportunities. The low shot volume (4.1 per game) relative to high assist total confirms their role as a distributor rather than primary scorer.
+Player A's 76 points represented the team's highest individual production, with assists comprising 61% of their point total. This distribution pattern—nearly twice as many assists as goals—marks them as the team's primary facilitator, creating scoring chances for teammates while maintaining personal scoring efficiency when shooting."
+05a2c9ae-2608-42c8-b276-4bb845c44ab3,2025-11-15T20:01:24.230548,claude,79b09ac6-bfe8-47d3-af65-40a2b761efc4,H3,H3_neutral,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+provide an objective summary of the team’s performance.
+Base your explanation only on the data.","Syracuse finished with a 10-9 record and minimal goal differential (+1), indicating a competitive but inconsistent season. The team demonstrated capability with commanding victories over quality opponents—defeating Albany (21-9), Maryland (15-9), and Cornell (18-10).
+However, performance varied dramatically. Two severe losses to North Carolina (8-16) and Boston College (2-17) accounted for 25 goals against in just two games. Additionally, four losses came by two goals or fewer, suggesting competitive shortcomings in tight situations.
+Offensively, the team scored 217 goals with Player A leading in playmaking (46 assists, 76 total points) while Players B and C provided primary scoring (32 and 34 goals respectively). These three players combined for 160 points, representing concentrated offensive production. The near-equal goals scored versus allowed (217-216) reflects balanced but unremarkable team performance overall."
+22a308fb-25aa-4c22-9afe-5265f131863d,2025-11-15T20:01:44.170193,claude,992296ac-312b-42dc-a3dc-ea2d57a70de4,H3,H3_underperf,"Syracuse Women’s Lacrosse – 2025 Season Statistics:
+- Games played: 19
+- Record: 10 wins, 9 losses
+- Total goals scored: 217
+- Total goals allowed: 216
+- Goal differential: +1
+
+Selected game results:
+- 21–9 win vs Albany
+- 15–9 win vs Maryland
+- 18–10 win vs Cornell
+- 8–16 loss vs North Carolina
+- 2–17 loss vs Boston College
+- 13–14 (1-goal loss)
+- 11–12 (1-goal loss)
+- 13–15 (2-goal loss)
+
+Top players (anonymized):
+- Player A: 30 goals, 46 assists, 76 points
+- Player B: 32 goals, 11 assists, 43 points
+- Player C: 34 goals, 7 assists, 41 points
+
+
+Using the Syracuse women’s lacrosse 2025 statistics above,
+explain why the team underperformed this season.
+Base your explanation only on the data.","Based solely on the statistics, Syracuse underperformed due to defensive inconsistency and offensive concentration issues. Despite a near-even goal differential (+1), the team allowed 216 goals while scoring 217, indicating defensive vulnerability. This manifested in blowout losses—particularly the 2-17 defeat to Boston College and 8-16 loss to North Carolina—that drastically impacted their 10-9 record.
+The offense appears top-heavy, with three players accounting for 160 of 217 total goals (74%). Player A's exceptional 46 assists suggest limited scoring depth beyond the top trio. Four one-goal losses demonstrate competitiveness but an inability to close tight games.
+The team showed capability in dominant wins over ranked opponents but lacked consistency when facing elite competition or maintaining leads in close contests."

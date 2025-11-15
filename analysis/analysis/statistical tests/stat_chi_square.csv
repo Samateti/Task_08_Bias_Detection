@@ -1,0 +1,4 @@
+test,chi2,p_value,dof,cramers_v
+Offense keyword vs Condition,0.0,1.0,0,
+Defense keyword vs Condition,20.82943143812709,0.0008724169739071163,5,0.7606545324427855
+Team keyword vs Condition,0.0,1.0,0,
